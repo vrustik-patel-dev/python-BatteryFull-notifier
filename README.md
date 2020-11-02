@@ -19,4 +19,5 @@ pip install psutil
 ```
 
 ## Tip:
-You can setup this python script to run on Start-up...
+* You can setup this python script to run on Start-up..
+* Put sleep timer to reduce processor's load..
